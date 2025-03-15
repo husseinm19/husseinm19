@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Hussein!
+## 👋 Hey there, I'm Hussein the Architect of the Mobile Realm 🚀  
 
 <!--
 **husseinm19/husseinm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Architect of the Mobile Realm 🚀  
 **Navigating the digital frontier, crafting sleek and scalable mobile experiences.**  
 
 ### 🧑‍💻 About Me  
@@ -31,10 +30,6 @@ With a deep-rooted passion for **clean code** and **architectural excellence**, 
 - 🏛️ Advocating for **clean architecture** and best engineering practices.  
 - 🧠 Constantly learning and mentoring fellow developers.  
 - 🛠️ Contributing to **open-source projects** and making magic happen.  
-
-### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 **Let's build something amazing!** ✨  
 💬 **Reach me at:** [hussein.m19@outlook.com]  

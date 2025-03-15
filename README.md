@@ -42,7 +42,7 @@ const hussein = {
     currentFocus: "Building scalable mobile solutions and contributing to open-source",
     funFact: "I write better code with a cup of coffee! ☕",
 };
- **```**
+'''
 
 - 📱 **Senior Mobile Developer** | **Freelancer** | **Open Source Contributor**  
 - ⚙️ **Tech Stack:** Kotlin | Java | Dart | Flutter | C# | Git | GitHub | Bitbucket  

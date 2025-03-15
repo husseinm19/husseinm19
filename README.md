@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Hussein the Architect of the Mobile Realm 🚀  
+## 👋 Hey there, I'm Hussein  
 
 <!--
 **husseinm19/husseinm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

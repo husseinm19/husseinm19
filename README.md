@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 A little more about me...  
 ```js
-const hussein = {
-    pronouns: "He" | "Him",
+const hussein = 
     code: ["Kotlin", "Java", "Dart", "C#"],
     askMeAbout: ["mobile dev", "clean architecture", "unit testing", "open-source", "freelancing"],
     technologies: {

@@ -16,8 +16,32 @@ Here are some ideas to get you started:
 -->
 **Navigating the digital frontier, crafting sleek and scalable mobile experiences.**  
 
-### 🧑‍💻 About Me  
-With a deep-rooted passion for **clean code** and **architectural excellence**, I specialize in building **high-performance mobile applications** that blend innovation with seamless user experience.  
+### 🧑‍💻 A little more about me...  
+```js
+const hussein = {
+    pronouns: "He" | "Him",
+    code: ["Kotlin", "Java", "Dart", "C#"],
+    askMeAbout: ["mobile dev", "clean architecture", "unit testing", "open-source", "freelancing"],
+    technologies: {
+        mobileApp: {
+            native: ["Android (Kotlin, Java)"],
+            crossPlatform: ["Flutter"],
+        },
+        versionControl: ["Git", "GitHub", "Bitbucket"],
+        architecture: ["Clean Architecture", "MVVM", "SOLID Principles",MVP]
+        testing: ["JUnit", "Flutter Test", "UI Testing"],
+        cloudServices: {
+            firebase: ["Firestore", "Realtime Database", "Auth", "Cloud Functions"],
+            aws: ["S3", "EC2", "Lambda"],
+        },
+        devOps: ["CI/CD, "GitHub Actions"],
+        databases: ["SQLite", "Room", "Hive", "SharedPreferences"],
+        misc: ["REST APIs", "GraphQL", "Push Notifications"],
+        design: ["Photoshop", "UI Tweaks"],
+    },
+    currentFocus: "Building scalable mobile solutions and contributing to open-source",
+    funFact: "I write better code with a cup of coffee! ☕",
+};
 
 - 📱 **Senior Mobile Developer** | **Freelancer** | **Open Source Contributor**  
 - ⚙️ **Tech Stack:** Kotlin | Java | Dart | Flutter | C# | Git | GitHub | Bitbucket  

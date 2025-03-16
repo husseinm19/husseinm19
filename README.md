@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🧑‍💻 A little more about me...  
 ```js
 const hussein = 
-    code: ["Kotlin", "Java", "Dart", "C#"],
+    code: ["Kotlin", "Java", "Dart"],
     askMeAbout: ["mobile dev", "clean architecture", "unit testing", "open-source", "freelancing"],
     technologies: {
         mobileApp: {
